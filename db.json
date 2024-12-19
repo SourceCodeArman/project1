@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "ac9e",
+      "username": "armanghevondyan",
+      "full_name": "Arman Ghevondyan",
+      "password": "arman2008",
+      "number_email": "arman@email.com",
+      "deactivated": true
+    },
+    {
+      "id": "7417",
+      "number_email": "+17477447781",
+      "password": "arman2008",
+      "full_name": "Arman Ghevondyan",
+      "username": "armanghev",
+      "deactivated": true
+    }
+  ],
+  "admins": [
+    {
+      "id": "4382",
+      "username": "Admin2024",
+      "number_email": "Admin@email.com",
+      "password": "AdminPassword123"
+    }
+  ]
+}
